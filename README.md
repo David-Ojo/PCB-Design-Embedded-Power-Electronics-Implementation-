@@ -1,4 +1,4 @@
-# PCB-Design-Embedded-Power-Electronics-Implementation-
+# PCB-Design-Embedded-Power-Electronics-Implementation
 MATLAB-Simulink, Altium Designer, 4PCB, JLCPCB 
 
 This repository contains the relevant course work 
